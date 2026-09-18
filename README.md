@@ -18,6 +18,8 @@ Pull Request fusionado:
 
 ![Pull Request Merged](merged.png)
 
+EJERCICIO 2.
+
 Evidencia Docker y PostgreSQL:
 
 Conexion y creacion de la base de datos en pgAdmin4:
