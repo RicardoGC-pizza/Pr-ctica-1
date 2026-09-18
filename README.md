@@ -17,3 +17,13 @@ Salida "git log --oneline --graph --all":**
 Pull Request fusionado:
 
 ![Pull Request Merged](merged.png)
+
+Evidencia Docker y PostgreSQL:
+
+Conexion y creacion de la base de datos en pgAdmin4:
+
+![Conexión pgAdmin](captura de servidor conection.png)
+
+Prueba de persistencia:
+
+![persistencia de datos](captura de persistencia.png)
