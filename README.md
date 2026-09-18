@@ -24,8 +24,8 @@ Evidencia Docker y PostgreSQL:
 
 Conexion y creacion de la base de datos en pgAdmin4:
 
-![Conexión pgAdmin](captura de servidor conection.png)
+![Conexión pgAdmin](conexion.png)
 
 Prueba de persistencia:
 
-![persistencia de datos](captura de persistencia.png)
+![persistencia de datos](persistencia.png)
