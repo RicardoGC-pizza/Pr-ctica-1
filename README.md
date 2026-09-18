@@ -1,31 +1,17 @@
 # Pr-ctica-1
-Equipo: Garcia Castañeda Ricardo ,
-        Garcia Miranda Saul
+Instituto Politecnico Nacional
+
+Equipo:
+
+	Garcia Castañeda Ricardo 2025630761
+
+        Garcia Miranda Saul   2025630740
+
         Grupo: 3CV4
+
         Carrera: ISC
 
-aqui va el indice
+**INDICE
+1.[Ejercicio 1: Investigación sobre Git, GitHub y Control de Versiones](docs/ejercicio1-git-github.pdf)
 
 Dirección de repositorio: [https://github.com/RicardoGC-pizza/Pr-ctica-1](https://github.com/RicardoGC-pizza/Pr-ctica-1)
-
-Evidencia
-
-Salida "git log --oneline --graph --all":**
-
-![Salida de Git Log](git_log.png)
-
-Pull Request fusionado:
-
-![Pull Request Merged](merged.png)
-
-EJERCICIO 2.
-
-Evidencia Docker y PostgreSQL:
-
-Conexion y creacion de la base de datos en pgAdmin4:
-
-![Conexión pgAdmin](conexion.png)
-
-Prueba de persistencia:
-
-![persistencia de datos](persistencia.png)
