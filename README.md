@@ -13,10 +13,10 @@
 ## 📌 Índice de Entregables
 
 ### 📖 Documentación Teórica (`docs/`)
-1. 📄 [Ejercicio 1: Investigación sobre Git, GitHub y Control de Versiones](docs/ejercicio1-git-github.pdf)
-2. 📄 [Ejercicio 2: Investigación sobre Docker, PostgreSQL y Persistencia](docs/ejercicio2-docker.pdf)
-3. 📄 [Ejercicio 3: Investigación Teórica — Unidad I (SGBD y Conceptos Clave)](docs/ejercicio3-unidad1.pdf)
-4. 📄 [Ejercicio 4: Estado del Arte — Análisis de Artículos Científicos con DOI](docs/ejercicio4-estado-del-arte.pdf)
+1. 📄 [Ejercicio 1: Investigación sobre Git, GitHub y Control de Versiones](docs/investigacion-ejercicio1.pdf)
+2. 📄 [Ejercicio 2: Investigación sobre Docker, PostgreSQL y Persistencia](docs/investigacion-ejercicio2.pdf)
+3. 📄 [Ejercicio 3: Investigación Teórica — Unidad I (SGBD y Conceptos Clave)](docs/EJERCICIO 3 PRACTICA 1.pdf)
+4. 📄 [Ejercicio 4: Estado del Arte — Análisis de Artículos Científicos con DOI](docs/investigacion-ejercicio4.pdf)
 
 ---
 
