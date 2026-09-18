@@ -4,3 +4,4 @@ Equipo: Garcia Castañeda Ricardo
         Grupo: 3CV4
         Carrera: ISC
 aqui va el indice
+Dirección de repositorio: [https://github.com/RicardoGC-pizza/Pr-ctica-1](https://github.com/RicardoGC-pizza/Pr-ctica-1)
