@@ -1,28 +1,39 @@
-# Pr-ctica-1
-Instituto Politécnico Nacional
+# Instituto Politécnico Nacional
+## Escuela Superior de Cómputo (ESCOM)
 
+**Asignatura:** Bases de Datos  
+**Grupo:** 3CV1  
+**Práctica:** Práctica 1 — Entorno de Desarrollo, Control de Versiones y Fundamentos de Bases de Datos  
+**Integrantes:**  
+* Ricardo García Castañeda  
+* [Nombre de tu compañero]  
 
-Equipo: 
+---
 
-        Garcia Castañeda Ricardo 2025630761
+## 📌 Índice de Entregables
 
-        Garcia Miranda Saul 2025630740
+### 📖 Documentación Teórica (`docs/`)
+1. 📄 [Ejercicio 1: Investigación sobre Git, GitHub y Control de Versiones](docs/ejercicio1-git-github.pdf)
+2. 📄 [Ejercicio 2: Investigación sobre Docker, PostgreSQL y Persistencia](docs/ejercicio2-docker.pdf)
+3. 📄 [Ejercicio 3: Investigación Teórica — Unidad I (SGBD y Conceptos Clave)](docs/ejercicio3-unidad1.pdf)
+4. 📄 [Ejercicio 4: Estado del Arte — Análisis de Artículos Científicos con DOI](docs/ejercicio4-estado-del-arte.pdf)
 
-        Grupo: 3CV4
+---
 
-        Carrera: ISC
+### 🛠️ Entorno de Desarrollo (`entorno/`)
+* 🐳 [docker-compose.yml](entorno/docker-compose.yml) — Archivo de orquestación de PostgreSQL 17 y pgAdmin 4.
 
-	Practica 1: Modelo entidad relación.
+---
 
-***INDICE
+### 📸 Evidencias de Funcionamiento (`evidencias/`)
+* 📂 [Evidencias de Git y GitHub](evidencias/git/) — Capturas del historial de *commits*, ramas por tarea y *Pull Requests* fusionados.
+* 📂 [Evidencias de Docker y BD](evidencias/docker/) — Capturas del contenedor corriendo, conexión vía pgAdmin y prueba de persistencia de datos en `./data`.
 
-1.[Ejercicio 1: Investigación sobre Git, GitHub y Control de Versiones](docs/ejercicio1-git-github.pdf)
+---
 
-2.[Ejercicio 2: Investigación sobre Docker, PostgreSQL y Persistencia](docs/ejercicio2-docker.pdf)
+## 🚀 Instrucciones para Desplegar el Entorno
 
-3.
-
-4.[Ejercicio 4: Estado del Arte — Análisis de Artículos Científicos con DOI](docs/ejercicio4-estado-del-arte.pdf)
-
-Dirección de repositorio: [https://github.com/RicardoGC-pizza/Pr-ctica-1](https://github.com/RicardoGC-pizza/Pr-ctica-1)
-
+1. **Clonar el repositorio:**
+   ```bash
+   git clone [https://github.com/tu-usuario/Pr-ctica-1.git](https://github.com/tu-usuario/Pr-ctica-1.git)
+   cd Pr-ctica-1
