@@ -5,8 +5,8 @@
 **Grupo:** 3CV1  
 **Práctica:** Práctica 1 — Entorno de Desarrollo, Control de Versiones y Fundamentos de Bases de Datos  
 **Integrantes:**  
-* Ricardo García Castañeda  
-* [Nombre de tu compañero]  
+* Ricardo García Castañeda  2025630761
+* Garcia Miranda Saúl       2025630740
 
 ---
 
